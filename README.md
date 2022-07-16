@@ -12,6 +12,10 @@ Convert geosoft grid to an open format for useability
 	- https://geoh5py.readthedocs.io/en/stable/
 - Rioxarray : goto tool for high level abstracted raster wrangling
 	- https://corteva.github.io/rioxarray/stable/
+- Geosoft 
+	- Viewer: https://www.seequent.com/products-solutions/geosoft-viewer/
+		- For access to data conversion
+	- Python package: https://pypi.org/project/geosoft/
 
 ## Issues
 Need Geosoft/login access to use the converter
