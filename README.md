@@ -1,10 +1,17 @@
 # Geosoft-Grid-to-Raster
 Convert geosoft grid to an open format for useability
 
+## Data
+- Gravity grid from Natural Resources Canada
+	- http://gdr.agg.nrcan.gc.ca/gdrdap/dap/search-eng.php
+	
 ## Tools
 - Mira Geoscience Geoscience Analyst
+	- https://mirageoscience.com/mining-industry-software/geoscience-analyst/
 - Geoh5py python package
+	- https://geoh5py.readthedocs.io/en/stable/
 - Rioxarray : goto tool for high level abstracted raster wrangling
+	- https://corteva.github.io/rioxarray/stable/
 
 ## Issues
 Need Geosoft/login access to use the converter
