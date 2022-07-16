@@ -25,3 +25,6 @@ Thomas Martin has a version of going to geoh5py via xarray and back here
 
 # Summary
 All of the above is a good example of why government data providers should also provide a version in an open format.
+
+e.g. don't want a future where we have to do this, routinely to recover science: - 
+- https://github.com/RichardScottOZ/Geosoft-Grid-Reverse-Engineering
