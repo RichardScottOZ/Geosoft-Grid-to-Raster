@@ -32,3 +32,6 @@ All of the above is a good example of why government data providers should also 
 
 e.g. We don't want a future where we have to do this routinely to recover science: - 
 - https://github.com/RichardScottOZ/Geosoft-Grid-Reverse-Engineering
+
+## note Loop Project here
+- https://github.com/Loop3D/geosoft_grid
