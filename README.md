@@ -20,8 +20,8 @@ Convert geosoft grid to an open format for useability
 ## Issues
 Need Geosoft/login access to use the converter
 - Free to sign up to get their viewer, but you can't export
-- Geosoft has their own python package, so you could do it this way, however it is more complicated
-	- Use this is you use their gdbs or other stuff and have it already
+- Geosoft has their own python package, so you could do it this way, however it is much more complicated
+	- Use this if you use their gdbs or other stuff and have it already
 
 ## Examples
 Thomas Martin has a version of going to geoh5py via xarray and back here
