@@ -35,3 +35,6 @@ e.g. We don't want a future where we have to do this routinely to recover scienc
 
 ## note Loop Project here
 - https://github.com/Loop3D/geosoft_grid
+
+## Harmonica
+- This capability now exists in Harmonica - examples soon
